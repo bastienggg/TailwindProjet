@@ -41,6 +41,6 @@ Voici les technologies et outils que j'utilise dans mes projets, accompagnés de
 
 🔗 Découvrez mes projets réalisés avec **Frontend Mentor** :
 
-| 🔢  | 🌟 Projet     | 📂 Code Source                                | 🌐 Version Déployée                                    |
-| --- | ------------- | --------------------------------------------- | ------------------------------------------------------ |
-| 1️⃣  | **Card Blog** | [GitHub](https://github.com/username/projet1) | [Live Demo](https://bastienguitard.fr/blog-card-main/) |
+| 🔢  | 🌟 Projet     | 📂 Code Source                                                                          | 🌐 Version Déployée                                    |
+| --- | ------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 1️⃣  | **Card Blog** | [GitHub](https://github.com/bastienggg/TailwindProjet/tree/main/blog-preview-card-main) | [Live Demo](https://bastienguitard.fr/blog-card-main/) |
